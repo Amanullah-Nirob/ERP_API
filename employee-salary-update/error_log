@@ -1,0 +1,4 @@
+[25-Jan-2022 03:32:19 America/New_York] PHP Notice:  Undefined property: stdClass::$employee_name in /home/glosiqul/testerp.apodigi.com/erpApi/employee-salary-update/single-bd-department-employee-update-salary.php on line 20
+[25-Jan-2022 03:32:46 America/New_York] PHP Notice:  Undefined property: stdClass::$employee_name in /home/glosiqul/testerp.apodigi.com/erpApi/employee-salary-update/single-bd-department-employee-update-salary.php on line 20
+[31-Jan-2022 06:56:53 America/New_York] PHP Notice:  Undefined property: stdClass::$employee_name in /home/glosiqul/testerp.apodigi.com/erpApi/employee-salary-update/single-tele-department-employee-update-salary.php on line 20
+[31-Jan-2022 06:56:53 America/New_York] PHP Notice:  Undefined property: stdClass::$salaryAmount in /home/glosiqul/testerp.apodigi.com/erpApi/employee-salary-update/single-tele-department-employee-update-salary.php on line 21

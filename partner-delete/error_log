@@ -1,0 +1,1 @@
+[25-Jan-2022 04:01:51 America/New_York] PHP Notice:  Undefined property: stdClass::$employee_name in /home/glosiqul/testerp.apodigi.com/erpApi/partner-delete/travel-partner-delete.php on line 20
